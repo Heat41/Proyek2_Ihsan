@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Proyek 2 Ihsan</string>
+    <string name="eNim"> Silahkan Masukkan NIM Anda </string>
+    <string name="ePass"> Silahkan Masukkan Password Anda </string>
+    <string name="bLogin"> Login </string>
+    <string name="copyright">
+        <b>IKIP PGRI Pontianak © 2022 P.TIK IKIP PGRI Pontianak</b>
+    </string>
+    <!-- Bagian Profil Organisasi -->
+    <string name="tOrg"> Nama Perguruan Tinggi </string>
+    <string name="Org"> IKIP PGRI Pontianak </string>
+    <string name="tAlamat"> Alamat \u0026 Telepon </string>
+    <string name="alamat"> Jl. Ampera No. 88 Pontianak \n Kalimantan Barat - Indonesia </string>
+    <string name="telp"> 0561-748219/0561-658955 \n rektorat@ikippgriptk.ac.id </string>
+    <string name="tAkreditas"> Akreditas Perguruan Tinggi </string>
+    <string name="akreditasi"> "B" </string>
+    <string name="tPimpinan"> Pimpinan Perguruan Tinggi </string>
+    <string name="tRektor"> Rektor </string>
+    <string name="rektor"> Muhammad Firdaus, M.Pd. </string>
+    <string name="tWarek1"> Wakil Rektor </string>
+    <string name="warek1"> Dr.Aunurrahman, M.Pd. </string>
+    <string name="tWarek2"> Wakil Rektor </string>
+    <string name="warek2"> Suherdiyanto, M.Pd. </string>
+
+    <string name="tFakProd">Fakultas \u0026 Program Prodi</string>
+    <string name="fakProd">
+        1. Fakultas Ilmu Pendidikan dan Pengetahuan Sosial \n
+            \t a. Pendidikan Pancasila dan Kewarganegaraan
+            \t b. Bimbingan dan Konseling
+            \t c. Pendidikan Sejarah
+            \t d. Pendidikan Geografi
+        2. Fakultas MIPA dan Teknologi \n
+            \t a. Pendidikan Matematika \n
+            \t b. Pendidikan Fisika \n
+            \t c. Pendidikan Teknologi Informasi \n
+            \t d. Pendidikan Biologi \n
+        3. Fakultas Pendidikan Bahasa dan Seni \n
+            \t a. Pendidikan Bahasa Indonesia \n
+            \t b. Pendidikan Bahasa Inggris \n
+        4. Fakultas Pendidikan Olahraga dan Kesehatan \n
+            \t a. Pendidikan Olahraga dan Kesehatan
+    </string>
+
+    <string name="tVisi">VISI</string>
+    <string name="tMisi">MISI</string>
+    <string name="tSasaran">SASARAN</string>
+
+    <string name="tJudul">Jenis Prestasi</string>
+    <string name="tIsi">Isi Prestasi</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_ket">
+        <item>Profil IKIP PGRI PONTIANAK</item>
+        <item>Visi dan Misi IKIP PGRI PONTIANAK</item>
+        <item>Prestasi IKIP PGRI PONTIANAK</item>
+        <item>Agenda Kegiatan IKIP PGRI PONTIANAK</item>
+        <item>Program Studi IKIP PGRI PONTIANAK</item>
+    </string-array>
+</resources>

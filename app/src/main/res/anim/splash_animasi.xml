@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    android:fillEnabled="true">
+    <!-- Duration =2500 berarti 2,5 detik atau 2500 milidetik -->
+    <!-- Alpha = 0 berarti transparan, 1 = berarti solid -->
+    <alpha
+        android:duration="2500"
+        android:fromAlpha="0"
+        android:toAlpha="1"/>
+    <!-- duration =2500 berarti 2,5 detik atau 2500 milidetik -->
+    <!-- fromXscale = 0 berarti lebar adalah 0% dari gambar, fromYscale = 0 berarti tinggi 0% dari gambar -->
+    <!-- toXscale = 1 berarti lebar adalah 100% dari gambar, toYscale = 1 berarti tinggi 100% dari gambar -->
+    <scale
+        android:duration="2500"
+        android:fromXScale="0"
+        android:fromYScale="0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1"
+        android:toYScale="1"/>
+</set>
